@@ -13,7 +13,7 @@ about:
 source:
   project: https://github.com/Kong/mcp-konnect
   branch: refs/pull/7/merge
-  commit: 1710e9d575c58b0426085756f3796fd46e9db076
+  commit: 2392bb2b600432317a0da2af2c0514195b0ffee7
 config:
   description: Configure the connection to Kong Konnect
   secrets:
